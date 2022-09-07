@@ -1,3 +1,5 @@
+![Iuliia Kuvshinchikova](CV.jpg)
+
 # Iuliia Kuvshinchikova
 
 ## Contacts

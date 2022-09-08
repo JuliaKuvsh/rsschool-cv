@@ -7,7 +7,6 @@
 * **Location:** Tula, Russia
 * **Discord:** Julia (@JuliaKuvsh)
 * **GitHub:** [JuliaKuvsh](https://github.com/JuliaKuvsh)
-* **E-mail:** juliakachergina@mail.ru
 * **Telegram:** ["Frontend junessa"](https://t.me/frontend_junessa)
   
 ## About Me
@@ -22,10 +21,9 @@ I am attentive to details, easily find a common language with people and know ho
 * CSS3
 * Less/Sass
 * JavaScript
-* Git и GitHub
+* Git and GitHub
 * Figma
 * Perfect Pixel
-
 * Basic knowledge:
     + PHP
     + Vue.js
